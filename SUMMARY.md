@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 
-* [Java](./docs/Java/SUMMARY.md)
-* [Docker](./docs/Docker/SUMMARY.md)
-* [Git](./docs/Git/SUMMARY.md)
+* [Java](./skills/Java/SUMMARY.md)
+* [Docker](./skills/Docker/SUMMARY.md)
+* [Git](./skills/Git/SUMMARY.md)
