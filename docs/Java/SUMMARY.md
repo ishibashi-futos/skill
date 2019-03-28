@@ -1,4 +1,4 @@
-# Summary [JAVA]
+# JAVA
 
 ## 経験
 

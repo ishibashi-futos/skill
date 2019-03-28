@@ -1,4 +1,4 @@
-# Summary [Git]
+# Git
 
 ## 経験
 
