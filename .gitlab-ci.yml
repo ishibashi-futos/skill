@@ -1,0 +1,9 @@
+image: registry.gitlab.com/ishibashi-futos/gitbook:latest
+
+build_and_release:
+  stage: build
+  script:
+    - gitbook build ./ ./docs/
+    - git add ./docs/
+    - git commit -m "books"
+    - git subtree push --prefix docs/ origin master
