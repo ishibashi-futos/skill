@@ -1,2 +1,4 @@
 _book/*
 !.gitkeep
+docs/.gitignore
+docs/.gitlab-ci.yml
